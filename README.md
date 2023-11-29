@@ -19,7 +19,6 @@ Un widget simple affichant la chanson en cours de lecture sur Spotify.
 - Affiche le nom de l'artiste.
 - Affiche la pochette de l'album.
 
-## Auteur
 
 ## Auteur
 
